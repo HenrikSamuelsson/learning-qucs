@@ -1,0 +1,1 @@
+This folder contains exercises done while reading Qucs - A Tutorial - Getting Started with Qucs. This document was downloaded from here [http://qucs.sourceforge.net/docs/tutorial/getstarted.pdf](http://qucs.sourceforge.net/docs/tutorial/getstarted.pdf) (2017-02-05).  
