@@ -1,0 +1,29 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,-60,827,800,1,40,0>
+  <Grid=10,10,0>
+  <DataSet=transistor_characteristics.dat>
+  <DataDisplay=transistor_characteristics.sch>
+  <OpenDisplay=1>
+  <Script=transistor_characteristics.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 113 435 619 295 3 #c0c0c0 1 10 0 1e-08 1 1 1 -23.6054 50 270.02 1 -1 0.5 1 315 0 225 "Ic" "" "">
+	<"Beta_vs_ic" #aa0000 0 3 0 0 0>
+	  <Mkr 0.0338954 221 -249 3 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
